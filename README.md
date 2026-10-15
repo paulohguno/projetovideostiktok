@@ -1,6 +1,6 @@
 
 ---
-name: tiktok-video-creator
+ tiktok-video-creator
 description: Planeja e produz vídeos curtos para TikTok, com roteiros envolventes, narração, legendas, edição dinâmica e formato vertical, priorizando ferramentas locais e sem APIs externas.
 ---
 
